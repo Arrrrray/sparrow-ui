@@ -1,0 +1,23 @@
+{
+  "name": "sparrow-ui",
+  "version": "1.0.0",
+  "description": "sparrow ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arrrrray/sparrow-ui.git"
+  },
+  "keywords": [
+    "sparrow",
+    "ui"
+  ],
+  "author": "junchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arrrrray/sparrow-ui/issues"
+  },
+  "homepage": "https://github.com/Arrrrray/sparrow-ui#readme"
+}
